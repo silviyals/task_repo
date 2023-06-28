@@ -57,4 +57,26 @@
 #third-main {
     text-align: center;
     margin-top: 40px;
+} 
+#pic-2 {
+   margin-top: 100px;
+}
+#for-text {
+    color: rgba(255, 255, 255, 0.973);
+    margin-top: -900px;
+    font-size: 5rem;
+    margin-left: 530px;
+   font-family: cursive;
+}
+#to-text {
+    color: rgba(255, 255, 255, 0.973);
+    margin-top: -750px;
+    font-size: 5rem;
+    font-family: cursive;
+    margin-left: 450px;
+}
+#iphone {
+    margin-top: -150px;
+    width: 300px;
+   
 }
