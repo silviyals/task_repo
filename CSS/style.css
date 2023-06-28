@@ -23,3 +23,16 @@
 #pic-1 {
     width: 400px;
 }
+#spfied {
+    list-style-type: none;
+}
+#inform-number {
+    background-color: rgb(239, 213, 247);
+    margin-top: 40px;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 0;
+    margin-right: 0;
+}
