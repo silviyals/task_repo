@@ -1,5 +1,5 @@
 #navbar {
-    background-color: rgb(247, 125, 125) important;
+    background-color: rgb(153, 153, 153);
 }
 #curvious_header {
     font-size: x-large;
@@ -12,4 +12,14 @@
 }
 #someth {
     margin-bottom: 300px;
+}
+.h3 {
+    font-family: cursive;
+}
+#paragraph {
+    text-align: center;
+    margin: 100px;
+}
+#pic-1 {
+    width: 400px;
 }
